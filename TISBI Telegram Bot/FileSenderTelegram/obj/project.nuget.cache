@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "j1lfe6Z8bSOKGd0zYo2yQqMTSIQ9YIHHW8Vxm/zWJsn4LhgyJdDELw2BThY97QFpC4UTG+TKvE621ZX4vR5P0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Shirya\\Desktop\\TISBI Telegram Bot\\FileSenderTelegram\\TISBI Helper bot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shirya\\.nuget\\packages\\deployf.botf\\0.16.0\\deployf.botf.0.16.0.nupkg.sha512",
+    "C:\\Users\\Shirya\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Shirya\\.nuget\\packages\\selenium.webdriver\\4.8.1\\selenium.webdriver.4.8.1.nupkg.sha512",
+    "C:\\Users\\Shirya\\.nuget\\packages\\selenium.webdriver.chromedriver\\110.0.5481.7700\\selenium.webdriver.chromedriver.110.0.5481.7700.nupkg.sha512",
+    "C:\\Users\\Shirya\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,68 @@
+C:\Users\bulat\Documents\TISBI Telegram Bot\FileSenderTelegram\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\bulat\Documents\TISBI Telegram Bot\FileSenderTelegram\bin\Debug\net6.0\appsettings.json
+C:\Users\bulat\Documents\TISBI Telegram Bot\FileSenderTelegram\bin\Debug\net6.0\TISBI Helper bot.exe
+C:\Users\bulat\Documents\TISBI Telegram Bot\FileSenderTelegram\bin\Debug\net6.0\TISBI Helper bot.deps.json
+C:\Users\bulat\Documents\TISBI Telegram Bot\FileSenderTelegram\bin\Debug\net6.0\TISBI Helper bot.runtimeconfig.json
+C:\Users\bulat\Documents\TISBI Telegram Bot\FileSenderTelegram\bin\Debug\net6.0\TISBI Helper bot.dll
+C:\Users\bulat\Documents\TISBI Telegram Bot\FileSenderTelegram\bin\Debug\net6.0\TISBI Helper bot.pdb
+C:\Users\bulat\Documents\TISBI Telegram Bot\FileSenderTelegram\bin\Debug\net6.0\Deployf.Botf.dll
+C:\Users\bulat\Documents\TISBI Telegram Bot\FileSenderTelegram\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\bulat\Documents\TISBI Telegram Bot\FileSenderTelegram\bin\Debug\net6.0\Telegram.Bot.dll
+C:\Users\bulat\Documents\TISBI Telegram Bot\FileSenderTelegram\obj\Debug\net6.0\TISBI Helper bot.csproj.AssemblyReference.cache
+C:\Users\bulat\Documents\TISBI Telegram Bot\FileSenderTelegram\obj\Debug\net6.0\TISBI Helper bot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bulat\Documents\TISBI Telegram Bot\FileSenderTelegram\obj\Debug\net6.0\TISBI Helper bot.AssemblyInfoInputs.cache
+C:\Users\bulat\Documents\TISBI Telegram Bot\FileSenderTelegram\obj\Debug\net6.0\TISBI Helper bot.AssemblyInfo.cs
+C:\Users\bulat\Documents\TISBI Telegram Bot\FileSenderTelegram\obj\Debug\net6.0\TISBI Helper bot.csproj.CoreCompileInputs.cache
+C:\Users\bulat\Documents\TISBI Telegram Bot\FileSenderTelegram\obj\Debug\net6.0\TISBI Helper bot.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bulat\Documents\TISBI Telegram Bot\FileSenderTelegram\obj\Debug\net6.0\staticwebassets\msbuild.TISBI Helper bot.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\bulat\Documents\TISBI Telegram Bot\FileSenderTelegram\obj\Debug\net6.0\staticwebassets\msbuild.build.TISBI Helper bot.props
+C:\Users\bulat\Documents\TISBI Telegram Bot\FileSenderTelegram\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TISBI Helper bot.props
+C:\Users\bulat\Documents\TISBI Telegram Bot\FileSenderTelegram\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TISBI Helper bot.props
+C:\Users\bulat\Documents\TISBI Telegram Bot\FileSenderTelegram\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\bulat\Documents\TISBI Telegram Bot\FileSenderTelegram\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\bulat\Documents\TISBI Telegram Bot\FileSenderTelegram\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\bulat\Documents\TISBI Telegram Bot\FileSenderTelegram\obj\Debug\net6.0\scopedcss\bundle\TISBI Helper bot.styles.css
+C:\Users\bulat\Documents\TISBI Telegram Bot\FileSenderTelegram\obj\Debug\net6.0\TISBI Helper bot.csproj.CopyComplete
+C:\Users\bulat\Documents\TISBI Telegram Bot\FileSenderTelegram\obj\Debug\net6.0\TISBI Helper bot.dll
+C:\Users\bulat\Documents\TISBI Telegram Bot\FileSenderTelegram\obj\Debug\net6.0\refint\TISBI Helper bot.dll
+C:\Users\bulat\Documents\TISBI Telegram Bot\FileSenderTelegram\obj\Debug\net6.0\TISBI Helper bot.pdb
+C:\Users\bulat\Documents\TISBI Telegram Bot\FileSenderTelegram\obj\Debug\net6.0\TISBI Helper bot.genruntimeconfig.cache
+C:\Users\bulat\Documents\TISBI Telegram Bot\FileSenderTelegram\obj\Debug\net6.0\ref\TISBI Helper bot.dll
+C:\Users\bulat\Documents\TISBI Telegram Bot\FileSenderTelegram\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\bulat\Documents\TISBI Telegram Bot\FileSenderTelegram\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\bulat\Documents\TISBI Telegram Bot\FileSenderTelegram\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\bulat\Documents\TISBI Telegram Bot\FileSenderTelegram\bin\Debug\net6.0\WebDriver.dll
+C:\Users\Shirya\Desktop\TISBI Telegram Bot\FileSenderTelegram\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Shirya\Desktop\TISBI Telegram Bot\FileSenderTelegram\bin\Debug\net6.0\appsettings.json
+C:\Users\Shirya\Desktop\TISBI Telegram Bot\FileSenderTelegram\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\Shirya\Desktop\TISBI Telegram Bot\FileSenderTelegram\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\Shirya\Desktop\TISBI Telegram Bot\FileSenderTelegram\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\Shirya\Desktop\TISBI Telegram Bot\FileSenderTelegram\bin\Debug\net6.0\TISBI Helper bot.exe
+C:\Users\Shirya\Desktop\TISBI Telegram Bot\FileSenderTelegram\bin\Debug\net6.0\TISBI Helper bot.deps.json
+C:\Users\Shirya\Desktop\TISBI Telegram Bot\FileSenderTelegram\bin\Debug\net6.0\TISBI Helper bot.runtimeconfig.json
+C:\Users\Shirya\Desktop\TISBI Telegram Bot\FileSenderTelegram\bin\Debug\net6.0\TISBI Helper bot.dll
+C:\Users\Shirya\Desktop\TISBI Telegram Bot\FileSenderTelegram\bin\Debug\net6.0\TISBI Helper bot.pdb
+C:\Users\Shirya\Desktop\TISBI Telegram Bot\FileSenderTelegram\bin\Debug\net6.0\Deployf.Botf.dll
+C:\Users\Shirya\Desktop\TISBI Telegram Bot\FileSenderTelegram\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Shirya\Desktop\TISBI Telegram Bot\FileSenderTelegram\bin\Debug\net6.0\WebDriver.dll
+C:\Users\Shirya\Desktop\TISBI Telegram Bot\FileSenderTelegram\bin\Debug\net6.0\Telegram.Bot.dll
+C:\Users\Shirya\Desktop\TISBI Telegram Bot\FileSenderTelegram\obj\Debug\net6.0\TISBI Helper bot.csproj.AssemblyReference.cache
+C:\Users\Shirya\Desktop\TISBI Telegram Bot\FileSenderTelegram\obj\Debug\net6.0\TISBI Helper bot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shirya\Desktop\TISBI Telegram Bot\FileSenderTelegram\obj\Debug\net6.0\TISBI Helper bot.AssemblyInfoInputs.cache
+C:\Users\Shirya\Desktop\TISBI Telegram Bot\FileSenderTelegram\obj\Debug\net6.0\TISBI Helper bot.AssemblyInfo.cs
+C:\Users\Shirya\Desktop\TISBI Telegram Bot\FileSenderTelegram\obj\Debug\net6.0\TISBI Helper bot.csproj.CoreCompileInputs.cache
+C:\Users\Shirya\Desktop\TISBI Telegram Bot\FileSenderTelegram\obj\Debug\net6.0\TISBI Helper bot.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Shirya\Desktop\TISBI Telegram Bot\FileSenderTelegram\obj\Debug\net6.0\staticwebassets\msbuild.TISBI Helper bot.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Shirya\Desktop\TISBI Telegram Bot\FileSenderTelegram\obj\Debug\net6.0\staticwebassets\msbuild.build.TISBI Helper bot.props
+C:\Users\Shirya\Desktop\TISBI Telegram Bot\FileSenderTelegram\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TISBI Helper bot.props
+C:\Users\Shirya\Desktop\TISBI Telegram Bot\FileSenderTelegram\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TISBI Helper bot.props
+C:\Users\Shirya\Desktop\TISBI Telegram Bot\FileSenderTelegram\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Shirya\Desktop\TISBI Telegram Bot\FileSenderTelegram\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Shirya\Desktop\TISBI Telegram Bot\FileSenderTelegram\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Shirya\Desktop\TISBI Telegram Bot\FileSenderTelegram\obj\Debug\net6.0\scopedcss\bundle\TISBI Helper bot.styles.css
+C:\Users\Shirya\Desktop\TISBI Telegram Bot\FileSenderTelegram\obj\Debug\net6.0\TISBI Helper bot.csproj.CopyComplete
+C:\Users\Shirya\Desktop\TISBI Telegram Bot\FileSenderTelegram\obj\Debug\net6.0\TISBI Helper bot.dll
+C:\Users\Shirya\Desktop\TISBI Telegram Bot\FileSenderTelegram\obj\Debug\net6.0\refint\TISBI Helper bot.dll
+C:\Users\Shirya\Desktop\TISBI Telegram Bot\FileSenderTelegram\obj\Debug\net6.0\TISBI Helper bot.pdb
+C:\Users\Shirya\Desktop\TISBI Telegram Bot\FileSenderTelegram\obj\Debug\net6.0\TISBI Helper bot.genruntimeconfig.cache
+C:\Users\Shirya\Desktop\TISBI Telegram Bot\FileSenderTelegram\obj\Debug\net6.0\ref\TISBI Helper bot.dll

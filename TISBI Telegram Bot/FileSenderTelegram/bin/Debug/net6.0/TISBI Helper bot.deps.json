@@ -1,0 +1,105 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TISBI Helper bot/1.0.0": {
+        "dependencies": {
+          "Deployf.Botf": "0.16.0",
+          "Selenium.WebDriver": "4.8.1",
+          "Selenium.WebDriver.ChromeDriver": "110.0.5481.7700"
+        },
+        "runtime": {
+          "TISBI Helper bot.dll": {}
+        }
+      },
+      "Deployf.Botf/0.16.0": {
+        "dependencies": {
+          "Telegram.Bot": "18.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/Deployf.Botf.dll": {
+            "assemblyVersion": "0.16.0.0",
+            "fileVersion": "0.16.0.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/13.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.1.25517"
+          }
+        }
+      },
+      "Selenium.WebDriver/4.8.1": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "runtime": {
+          "lib/net6.0/WebDriver.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        }
+      },
+      "Selenium.WebDriver.ChromeDriver/110.0.5481.7700": {},
+      "Telegram.Bot/18.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Telegram.Bot.dll": {
+            "assemblyVersion": "18.0.0.0",
+            "fileVersion": "18.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TISBI Helper bot/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Deployf.Botf/0.16.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-A8q7STOt75QJgYCdwiZIaP2gUjbrmyYdDQ/+U7gWe0wmXSqDl5+BUDIA6dg9PcfWo4U0gtLFKC8mfCen95lHuA==",
+      "path": "deployf.botf/0.16.0",
+      "hashPath": "deployf.botf.0.16.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/13.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
+      "path": "newtonsoft.json/13.0.1",
+      "hashPath": "newtonsoft.json.13.0.1.nupkg.sha512"
+    },
+    "Selenium.WebDriver/4.8.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-h4H7pEyr41Xf+IgmhNqrbF3I24SV02x2G1INS82pycNltg1q15/qVV/aRKu/MbMFKtqy1mVoNEE/4/p7T/4Ngw==",
+      "path": "selenium.webdriver/4.8.1",
+      "hashPath": "selenium.webdriver.4.8.1.nupkg.sha512"
+    },
+    "Selenium.WebDriver.ChromeDriver/110.0.5481.7700": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fRcvSVCO5vfWMyNZhu4jyt4/UBUIRENR261XozDdDJhgPIcHY99BMKViYzlEcinzkdJ6m+571rlcaNNiaZHhlQ==",
+      "path": "selenium.webdriver.chromedriver/110.0.5481.7700",
+      "hashPath": "selenium.webdriver.chromedriver.110.0.5481.7700.nupkg.sha512"
+    },
+    "Telegram.Bot/18.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BD0UchUXINymCGS+1O1tv2enCRyv+VbSJQAgfnueTZs3j7K4XXyJyW0CgyJleTrqB1oq1hS1ux6gBpi3Ajp+ZQ==",
+      "path": "telegram.bot/18.0.0",
+      "hashPath": "telegram.bot.18.0.0.nupkg.sha512"
+    }
+  }
+}
